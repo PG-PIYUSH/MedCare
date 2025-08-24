@@ -70,4 +70,3 @@ Ensure proper server configuration to handle routes like `/patient/dashboard`, `
 ### **Acknowledgment**  
 The basic layout of this project was initially implemented using **Bolt UI Kit**. Further configurations, integrations, and improvements have been made to enhance functionality and user experience.
 
-**Note**: This repository is for the **frontend part** only. Backend functionality, APIs, and server configurations are managed separately at [BACKEND](https://github.com/JatinGera27aug/Hospital-appointments)
