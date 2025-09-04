@@ -1,4 +1,4 @@
-# Hospital Appointment System (Frontend)
+# Hospital Appointment System 
 
 This repository contains the frontend code for a **Hospital Appointment System**, designed to streamline interactions between patients, doctors, and administrators. The project offers role-based dashboards and functionality tailored to each user type.
 
@@ -65,7 +65,7 @@ Ensure proper server configuration to handle routes like `/patient/dashboard`, `
 
 ## Roadmap for Future Improvements
 
-- **Integration with Backend**: Adding real-time appointment management and data updates.  
+- **Integration Of Login/Signup With Backend**: Integrating login?Signup frontend with backend 
 - **Enhanced Role Management**: Restrict page access based on authentication status.  
 - **UI Improvements**: Refine the user interface for better usability and aesthetics.  
 
