@@ -44,7 +44,7 @@ Ensure proper server configuration to handle routes like `/patient/dashboard`, `
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/healthcare-management-frontend.git
+   git clone https://github.com/PG-PIYUSH/MedCare.git
    ```
 2. Navigate to the project directory:
    ```bash
