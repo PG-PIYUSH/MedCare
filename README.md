@@ -48,7 +48,9 @@ Ensure proper server configuration to handle routes like `/patient/dashboard`, `
    ```
 2. Navigate to the project directory:
    ```bash
-   cd healthcare-management-frontend
+   cd Hospital-appointments-Frontend-main(then step 3)
+   cd .
+   cd server (then step 3 ,4 and 5)
    ```
 3. Install dependencies:
    ```bash
