@@ -14,7 +14,8 @@ This repository contains the frontend code for a **Hospital Appointment System**
   - Token-based authentication ensures secure access.  
 
 - **Dynamic Routing**:  
-  - Pages are dynamically rendered based on user roles (`/patient/dashboard`, `/doctor/dashboard`, `/admin/dashboard`).  
+  - Pages are dynamically rendered based on user roles (`/patient/dashboard`, `/doctor/dashboard`, `/admin/dashboard`).
+  - (P.S.- use these dashboard along with deployment link to directly went to these dashboards due to hard coded login already done for ease of demonstration with DOCTOR- seema gupta)
 
 - **Responsive Design**:  
   Built with a modern UI to ensure accessibility across devices.
