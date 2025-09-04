@@ -33,7 +33,7 @@ This repository contains the frontend code for a **Hospital Appointment System**
 
 ## Deployment
 
-The frontend is deployed on **Netlify** and accessible at: medcare-appointment.netlify.app
+The project is deployed on **Netlify** and accessible at: medcare-appointment.netlify.app
 
 
 
