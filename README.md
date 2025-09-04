@@ -20,6 +20,9 @@ This repository contains the frontend code for a **Hospital Appointment System**
 - **Responsive Design**:  
   Built with a modern UI to ensure accessibility across devices.
 
+- **Reschduling Feature**:
+  if doctor approved patient request and request does not go to ongoing or completed state by doctor on time means patient did not visited the doctor on time and he will get email for rescheduling of their appointment
+
 ## Built With
 
 - **React**: For building the user interface.  
